@@ -7,9 +7,7 @@ namespace HoraCerta.Infra.Data.Contexto
     {
         public HoraCertaContexto()
             :base("HoraCerta")
-        {
-
-        }
+        {  }
 
         public DbSet<Usuario> Usuarios { get; set; }
     }

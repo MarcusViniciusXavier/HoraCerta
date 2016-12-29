@@ -1,0 +1,5 @@
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Aplicacao\bin\Debug\HoraCerta.Aplicacao.dll
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Aplicacao\bin\Debug\HoraCerta.Aplicacao.pdb
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Aplicacao\obj\Debug\HoraCerta.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Aplicacao\obj\Debug\HoraCerta.Aplicacao.dll
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Aplicacao\obj\Debug\HoraCerta.Aplicacao.pdb

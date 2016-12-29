@@ -1,0 +1,12 @@
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\HoraCerta.Infra.Data.dll.config
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\HoraCerta.Infra.Data.dll
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\HoraCerta.Infra.Data.pdb
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\HoraCerta.Dominio.dll
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\HoraCerta.Dominio.pdb
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\obj\Debug\HoraCerta.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\obj\Debug\HoraCerta.Infra.Data.dll
+C:\Users\Marcus\Documents\GitHub\HoraCerta\HoraCerta.Infra.Data\obj\Debug\HoraCerta.Infra.Data.pdb
